@@ -1,6 +1,6 @@
 #This is a MadLibs project
-#My name:
-#Who I collaborated with:
+#My name: Kenny S.
+#Who I collaborated with: nobody
 print("************************************")
 print("| |")
 print("| Welcome to MadLibs | ")
